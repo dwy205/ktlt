@@ -1,3 +1,5 @@
+// hello 123
+
 /*
  * Ho Chi Minh City University of Technology
  * Faculty of Computer Science and Engineering
@@ -89,6 +91,7 @@ public:
     {
         return c;
     };
+    // 123
     void setRow(int r)
     {
         this->r = r;
