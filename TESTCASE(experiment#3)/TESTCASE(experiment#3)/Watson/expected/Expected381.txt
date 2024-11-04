@@ -1,0 +1,401 @@
+Watson[index=0;pos=(4,9);moving_rule=LDLLRRRD] EXP:513
+STEPT 1:
+Watson[index=0;pos=(4,8);moving_rule=LDLLRRRD]
+STEPT 2:
+Watson[index=0;pos=(5,8);moving_rule=LDLLRRRD]
+STEPT 3:
+Watson[index=0;pos=(5,7);moving_rule=LDLLRRRD]
+STEPT 4:
+Watson[index=0;pos=(5,6);moving_rule=LDLLRRRD]
+STEPT 5:
+Watson[index=0;pos=(5,7);moving_rule=LDLLRRRD]
+STEPT 6:
+Watson[index=0;pos=(5,8);moving_rule=LDLLRRRD]
+STEPT 7:
+Watson[index=0;pos=(5,8);moving_rule=LDLLRRRD]
+STEPT 8:
+Watson[index=0;pos=(6,8);moving_rule=LDLLRRRD]
+STEPT 9:
+Watson[index=0;pos=(6,7);moving_rule=LDLLRRRD]
+STEPT 10:
+Watson[index=0;pos=(7,7);moving_rule=LDLLRRRD]
+STEPT 11:
+Watson[index=0;pos=(7,6);moving_rule=LDLLRRRD]
+STEPT 12:
+Watson[index=0;pos=(7,5);moving_rule=LDLLRRRD]
+STEPT 13:
+Watson[index=0;pos=(7,6);moving_rule=LDLLRRRD]
+STEPT 14:
+Watson[index=0;pos=(7,7);moving_rule=LDLLRRRD]
+STEPT 15:
+Watson[index=0;pos=(7,8);moving_rule=LDLLRRRD]
+STEPT 16:
+Watson[index=0;pos=(8,8);moving_rule=LDLLRRRD]
+STEPT 17:
+Watson[index=0;pos=(8,7);moving_rule=LDLLRRRD]
+STEPT 18:
+Watson[index=0;pos=(8,7);moving_rule=LDLLRRRD]
+STEPT 19:
+Watson[index=0;pos=(8,6);moving_rule=LDLLRRRD]
+STEPT 20:
+Watson[index=0;pos=(8,5);moving_rule=LDLLRRRD]
+STEPT 21:
+Watson[index=0;pos=(8,6);moving_rule=LDLLRRRD]
+STEPT 22:
+Watson[index=0;pos=(8,7);moving_rule=LDLLRRRD]
+STEPT 23:
+Watson[index=0;pos=(8,8);moving_rule=LDLLRRRD]
+STEPT 24:
+Watson[index=0;pos=(9,8);moving_rule=LDLLRRRD]
+STEPT 25:
+Watson[index=0;pos=(9,8);moving_rule=LDLLRRRD]
+STEPT 26:
+Watson[index=0;pos=(10,8);moving_rule=LDLLRRRD]
+STEPT 27:
+Watson[index=0;pos=(10,7);moving_rule=LDLLRRRD]
+STEPT 28:
+Watson[index=0;pos=(10,6);moving_rule=LDLLRRRD]
+STEPT 29:
+Watson[index=0;pos=(10,7);moving_rule=LDLLRRRD]
+STEPT 30:
+Watson[index=0;pos=(10,8);moving_rule=LDLLRRRD]
+STEPT 31:
+Watson[index=0;pos=(10,9);moving_rule=LDLLRRRD]
+STEPT 32:
+Watson[index=0;pos=(11,9);moving_rule=LDLLRRRD]
+STEPT 33:
+Watson[index=0;pos=(11,8);moving_rule=LDLLRRRD]
+STEPT 34:
+Watson[index=0;pos=(12,8);moving_rule=LDLLRRRD]
+STEPT 35:
+Watson[index=0;pos=(12,7);moving_rule=LDLLRRRD]
+STEPT 36:
+Watson[index=0;pos=(12,6);moving_rule=LDLLRRRD]
+STEPT 37:
+Watson[index=0;pos=(12,7);moving_rule=LDLLRRRD]
+STEPT 38:
+Watson[index=0;pos=(12,8);moving_rule=LDLLRRRD]
+STEPT 39:
+Watson[index=0;pos=(12,9);moving_rule=LDLLRRRD]
+STEPT 40:
+Watson[index=0;pos=(13,9);moving_rule=LDLLRRRD]
+STEPT 41:
+Watson[index=0;pos=(13,8);moving_rule=LDLLRRRD]
+STEPT 42:
+Watson[index=0;pos=(14,8);moving_rule=LDLLRRRD]
+STEPT 43:
+Watson[index=0;pos=(14,7);moving_rule=LDLLRRRD]
+STEPT 44:
+Watson[index=0;pos=(14,7);moving_rule=LDLLRRRD]
+STEPT 45:
+Watson[index=0;pos=(14,8);moving_rule=LDLLRRRD]
+STEPT 46:
+Watson[index=0;pos=(14,9);moving_rule=LDLLRRRD]
+STEPT 47:
+Watson[index=0;pos=(14,10);moving_rule=LDLLRRRD]
+STEPT 48:
+Watson[index=0;pos=(15,10);moving_rule=LDLLRRRD]
+STEPT 49:
+Watson[index=0;pos=(15,9);moving_rule=LDLLRRRD]
+STEPT 50:
+Watson[index=0;pos=(16,9);moving_rule=LDLLRRRD]
+STEPT 51:
+Watson[index=0;pos=(16,8);moving_rule=LDLLRRRD]
+STEPT 52:
+Watson[index=0;pos=(16,7);moving_rule=LDLLRRRD]
+STEPT 53:
+Watson[index=0;pos=(16,8);moving_rule=LDLLRRRD]
+STEPT 54:
+Watson[index=0;pos=(16,9);moving_rule=LDLLRRRD]
+STEPT 55:
+Watson[index=0;pos=(16,10);moving_rule=LDLLRRRD]
+STEPT 56:
+Watson[index=0;pos=(17,10);moving_rule=LDLLRRRD]
+STEPT 57:
+Watson[index=0;pos=(17,9);moving_rule=LDLLRRRD]
+STEPT 58:
+Watson[index=0;pos=(18,9);moving_rule=LDLLRRRD]
+STEPT 59:
+Watson[index=0;pos=(18,8);moving_rule=LDLLRRRD]
+STEPT 60:
+Watson[index=0;pos=(18,7);moving_rule=LDLLRRRD]
+STEPT 61:
+Watson[index=0;pos=(18,8);moving_rule=LDLLRRRD]
+STEPT 62:
+Watson[index=0;pos=(18,9);moving_rule=LDLLRRRD]
+STEPT 63:
+Watson[index=0;pos=(18,10);moving_rule=LDLLRRRD]
+STEPT 64:
+Watson[index=0;pos=(19,10);moving_rule=LDLLRRRD]
+STEPT 65:
+Watson[index=0;pos=(19,9);moving_rule=LDLLRRRD]
+STEPT 66:
+Watson[index=0;pos=(20,9);moving_rule=LDLLRRRD]
+STEPT 67:
+Watson[index=0;pos=(20,8);moving_rule=LDLLRRRD]
+STEPT 68:
+Watson[index=0;pos=(20,7);moving_rule=LDLLRRRD]
+STEPT 69:
+Watson[index=0;pos=(20,8);moving_rule=LDLLRRRD]
+STEPT 70:
+Watson[index=0;pos=(20,9);moving_rule=LDLLRRRD]
+STEPT 71:
+Watson[index=0;pos=(20,10);moving_rule=LDLLRRRD]
+STEPT 72:
+Watson[index=0;pos=(21,10);moving_rule=LDLLRRRD]
+STEPT 73:
+Watson[index=0;pos=(21,9);moving_rule=LDLLRRRD]
+STEPT 74:
+Watson[index=0;pos=(21,9);moving_rule=LDLLRRRD]
+STEPT 75:
+Watson[index=0;pos=(21,8);moving_rule=LDLLRRRD]
+STEPT 76:
+Watson[index=0;pos=(21,7);moving_rule=LDLLRRRD]
+STEPT 77:
+Watson[index=0;pos=(21,8);moving_rule=LDLLRRRD]
+STEPT 78:
+Watson[index=0;pos=(21,9);moving_rule=LDLLRRRD]
+STEPT 79:
+Watson[index=0;pos=(21,10);moving_rule=LDLLRRRD]
+STEPT 80:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 81:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 82:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 83:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 84:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 85:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 86:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 87:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 88:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 89:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 90:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 91:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 92:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 93:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 94:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 95:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 96:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 97:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 98:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 99:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 100:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 101:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 102:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 103:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 104:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 105:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 106:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 107:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 108:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 109:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 110:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 111:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 112:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 113:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 114:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 115:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 116:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 117:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 118:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 119:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 120:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 121:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 122:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 123:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 124:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 125:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 126:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 127:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 128:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 129:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 130:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 131:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 132:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 133:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 134:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 135:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 136:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 137:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 138:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 139:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 140:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 141:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 142:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 143:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 144:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 145:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 146:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 147:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 148:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 149:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 150:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 151:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 152:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 153:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 154:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 155:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 156:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 157:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 158:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 159:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 160:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 161:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 162:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 163:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 164:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 165:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 166:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 167:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 168:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 169:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 170:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 171:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 172:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 173:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 174:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 175:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 176:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 177:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 178:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 179:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 180:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 181:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 182:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 183:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 184:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 185:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 186:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 187:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 188:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 189:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 190:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 191:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 192:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 193:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 194:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 195:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 196:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 197:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 198:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 199:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]
+STEPT 200:
+Watson[index=0;pos=(22,10);moving_rule=LDLLRRRD]

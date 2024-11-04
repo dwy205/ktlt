@@ -1,0 +1,60 @@
+Sherlock[index=0;pos=(42,16);moving_rule=URLLLUDLUDDR] HP:57 EXP:209
+Bag[count=0]
+ACTIVITY 0 : INSERT MAGIC BOOK
+Bag[count=1;MagicBook]
+ACTIVITY 1 : INSERT MAGIC BOOK
+Bag[count=2;MagicBook,MagicBook]
+ACTIVITY 2 : INSERT MAGIC BOOK
+Bag[count=3;MagicBook,MagicBook,MagicBook]
+ACTIVITY 3 : INSERT PASSING CARD
+Bag[count=4;PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 4 : INSERT PASSING CARD
+Bag[count=5;PassingCard,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 5 : GET
+Bag[count=4;PassingCard,PassingCard,MagicBook,MagicBook]
+ACTIVITY 6 : INSERT EXCEMPTION CARD
+Bag[count=5;ExcemptionCard,PassingCard,PassingCard,MagicBook,MagicBook]
+ACTIVITY 7 : GET
+Bag[count=4;PassingCard,PassingCard,MagicBook,MagicBook]
+ACTIVITY 8 : INSERT ENERGY DRINK
+Bag[count=5;EnergyDrink,PassingCard,PassingCard,MagicBook,MagicBook]
+ACTIVITY 9 : GET
+Bag[count=4;PassingCard,PassingCard,MagicBook,MagicBook]
+ACTIVITY 10 : GET PASSING CARD
+Bag[count=3;PassingCard,MagicBook,MagicBook]
+ACTIVITY 11 : GET
+Bag[count=2;PassingCard,MagicBook]
+ACTIVITY 12 : GET
+Bag[count=1;PassingCard]
+ACTIVITY 13 : GET
+Bag[count=1;PassingCard]
+ACTIVITY 14 : GET MAGIC BOOK
+Bag[count=1;PassingCard]
+ACTIVITY 15 : GET FIRST AID
+Bag[count=1;PassingCard]
+ACTIVITY 16 : INSERT PASSING CARD
+Bag[count=2;PassingCard,PassingCard]
+ACTIVITY 17 : GET ENERGY DRINK
+Bag[count=2;PassingCard,PassingCard]
+ACTIVITY 18 : INSERT FIRST AID
+Bag[count=3;FirstAid,PassingCard,PassingCard]
+ACTIVITY 19 : GET PASSING CARD
+Bag[count=2;FirstAid,PassingCard]
+ACTIVITY 20 : INSERT PASSING CARD
+Bag[count=3;PassingCard,FirstAid,PassingCard]
+ACTIVITY 21 : GET
+Bag[count=2;PassingCard,PassingCard]
+ACTIVITY 22 : GET MAGIC BOOK
+Bag[count=2;PassingCard,PassingCard]
+ACTIVITY 23 : GET EXCEMPTION CARD
+Bag[count=2;PassingCard,PassingCard]
+ACTIVITY 24 : GET PASSING CARD
+Bag[count=1;PassingCard]
+ACTIVITY 25 : GET
+Bag[count=1;PassingCard]
+ACTIVITY 26 : GET EXCEMPTION CARD
+Bag[count=1;PassingCard]
+ACTIVITY 27 : GET ENERGY DRINK
+Bag[count=1;PassingCard]
+ACTIVITY 28 : GET PASSING CARD
+Bag[count=0]

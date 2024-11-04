@@ -1,0 +1,58 @@
+Watson[index=0;pos=(5,4);moving_rule=DDDRL] HP:365 EXP:769
+Bag[count=0]
+ACTIVITY 0 : INSERT MAGIC BOOK
+Bag[count=1;MagicBook]
+ACTIVITY 1 : INSERT MAGIC BOOK
+Bag[count=2;MagicBook,MagicBook]
+ACTIVITY 2 : INSERT EXCEMPTION CARD
+Bag[count=3;ExcemptionCard,MagicBook,MagicBook]
+ACTIVITY 3 : INSERT PASSING CARD
+Bag[count=4;PassingCard,ExcemptionCard,MagicBook,MagicBook]
+ACTIVITY 4 : INSERT ENERGY DRINK
+Bag[count=5;EnergyDrink,PassingCard,ExcemptionCard,MagicBook,MagicBook]
+ACTIVITY 5 : INSERT MAGIC BOOK
+Bag[count=6;MagicBook,EnergyDrink,PassingCard,ExcemptionCard,MagicBook,MagicBook]
+ACTIVITY 6 : GET EXCEMPTION CARD
+Bag[count=5;EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 7 : INSERT PASSING CARD
+Bag[count=6;PassingCard,EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 8 : GET PASSING CARD
+Bag[count=5;EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 9 : GET
+Bag[count=5;EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 10 : INSERT FIRST AID
+Bag[count=6;FirstAid,EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 11 : GET
+Bag[count=6;FirstAid,EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 12 : INSERT FIRST AID
+Bag[count=7;FirstAid,FirstAid,EnergyDrink,PassingCard,MagicBook,MagicBook,MagicBook]
+ACTIVITY 13 : GET MAGIC BOOK
+Bag[count=6;FirstAid,EnergyDrink,PassingCard,FirstAid,MagicBook,MagicBook]
+ACTIVITY 14 : GET PASSING CARD
+Bag[count=5;EnergyDrink,FirstAid,FirstAid,MagicBook,MagicBook]
+ACTIVITY 15 : GET FIRST AID
+Bag[count=4;EnergyDrink,FirstAid,MagicBook,MagicBook]
+ACTIVITY 16 : INSERT MAGIC BOOK
+Bag[count=5;MagicBook,EnergyDrink,FirstAid,MagicBook,MagicBook]
+ACTIVITY 17 : GET
+Bag[count=5;MagicBook,EnergyDrink,FirstAid,MagicBook,MagicBook]
+ACTIVITY 18 : GET MAGIC BOOK
+Bag[count=4;EnergyDrink,FirstAid,MagicBook,MagicBook]
+ACTIVITY 19 : GET
+Bag[count=4;EnergyDrink,FirstAid,MagicBook,MagicBook]
+ACTIVITY 20 : GET ENERGY DRINK
+Bag[count=3;FirstAid,MagicBook,MagicBook]
+ACTIVITY 21 : INSERT ENERGY DRINK
+Bag[count=4;EnergyDrink,FirstAid,MagicBook,MagicBook]
+ACTIVITY 22 : GET MAGIC BOOK
+Bag[count=3;FirstAid,EnergyDrink,MagicBook]
+ACTIVITY 23 : GET ENERGY DRINK
+Bag[count=2;FirstAid,MagicBook]
+ACTIVITY 24 : INSERT MAGIC BOOK
+Bag[count=3;MagicBook,FirstAid,MagicBook]
+ACTIVITY 25 : GET
+Bag[count=3;MagicBook,FirstAid,MagicBook]
+ACTIVITY 26 : GET MAGIC BOOK
+Bag[count=2;FirstAid,MagicBook]
+ACTIVITY 27 : GET
+Bag[count=2;FirstAid,MagicBook]

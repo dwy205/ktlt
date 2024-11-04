@@ -1,0 +1,76 @@
+Watson[index=0;pos=(23,45);moving_rule=LUULRUL] HP:387 EXP:469
+Bag[count=0]
+ACTIVITY 0 : INSERT ENERGY DRINK
+Bag[count=1;EnergyDrink]
+ACTIVITY 1 : INSERT MAGIC BOOK
+Bag[count=2;MagicBook,EnergyDrink]
+ACTIVITY 2 : INSERT FIRST AID
+Bag[count=3;FirstAid,MagicBook,EnergyDrink]
+ACTIVITY 3 : INSERT FIRST AID
+Bag[count=4;FirstAid,FirstAid,MagicBook,EnergyDrink]
+ACTIVITY 4 : INSERT EXCEMPTION CARD
+Bag[count=5;ExcemptionCard,FirstAid,FirstAid,MagicBook,EnergyDrink]
+ACTIVITY 5 : GET ENERGY DRINK
+Bag[count=4;FirstAid,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 6 : GET FIRST AID
+Bag[count=3;FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 7 : INSERT ENERGY DRINK
+Bag[count=4;EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 8 : INSERT ENERGY DRINK
+Bag[count=5;EnergyDrink,EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 9 : GET
+Bag[count=5;EnergyDrink,EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 10 : GET
+Bag[count=5;EnergyDrink,EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 11 : INSERT FIRST AID
+Bag[count=6;FirstAid,EnergyDrink,EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 12 : GET
+Bag[count=6;FirstAid,EnergyDrink,EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 13 : INSERT FIRST AID
+Bag[count=7;FirstAid,FirstAid,EnergyDrink,EnergyDrink,FirstAid,MagicBook,ExcemptionCard]
+ACTIVITY 14 : GET MAGIC BOOK
+Bag[count=6;FirstAid,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 15 : GET MAGIC BOOK
+Bag[count=6;FirstAid,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 16 : INSERT EXCEMPTION CARD
+Bag[count=7;ExcemptionCard,FirstAid,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 17 : GET FIRST AID
+Bag[count=6;ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 18 : GET
+Bag[count=6;ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 19 : INSERT ENERGY DRINK
+Bag[count=7;EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 20 : GET MAGIC BOOK
+Bag[count=7;EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 21 : GET PASSING CARD
+Bag[count=7;EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 22 : GET
+Bag[count=7;EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 23 : GET
+Bag[count=7;EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 24 : INSERT MAGIC BOOK
+Bag[count=8;MagicBook,EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 25 : GET
+Bag[count=8;MagicBook,EnergyDrink,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 26 : GET ENERGY DRINK
+Bag[count=7;MagicBook,ExcemptionCard,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 27 : GET EXCEMPTION CARD
+Bag[count=6;MagicBook,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 28 : GET PASSING CARD
+Bag[count=6;MagicBook,EnergyDrink,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 29 : GET ENERGY DRINK
+Bag[count=5;MagicBook,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 30 : GET
+Bag[count=5;MagicBook,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 31 : INSERT FIRST AID
+Bag[count=6;FirstAid,MagicBook,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 32 : GET PASSING CARD
+Bag[count=6;FirstAid,MagicBook,EnergyDrink,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 33 : GET ENERGY DRINK
+Bag[count=5;MagicBook,FirstAid,FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 34 : GET EXCEMPTION CARD
+Bag[count=4;FirstAid,FirstAid,FirstAid,MagicBook]
+ACTIVITY 35 : GET
+Bag[count=4;FirstAid,FirstAid,FirstAid,MagicBook]
+ACTIVITY 36 : GET
+Bag[count=4;FirstAid,FirstAid,FirstAid,MagicBook]

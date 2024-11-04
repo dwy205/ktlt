@@ -1,0 +1,86 @@
+Sherlock[index=0;pos=(2,13);moving_rule=LRLULRR] HP:424 EXP:817
+Bag[count=0]
+ACTIVITY 0 : INSERT EXCEMPTION CARD
+Bag[count=1;ExcemptionCard]
+ACTIVITY 1 : INSERT MAGIC BOOK
+Bag[count=2;MagicBook,ExcemptionCard]
+ACTIVITY 2 : INSERT ENERGY DRINK
+Bag[count=3;EnergyDrink,MagicBook,ExcemptionCard]
+ACTIVITY 3 : INSERT EXCEMPTION CARD
+Bag[count=4;ExcemptionCard,EnergyDrink,MagicBook,ExcemptionCard]
+ACTIVITY 4 : INSERT EXCEMPTION CARD
+Bag[count=5;ExcemptionCard,ExcemptionCard,EnergyDrink,MagicBook,ExcemptionCard]
+ACTIVITY 5 : INSERT ENERGY DRINK
+Bag[count=6;EnergyDrink,ExcemptionCard,ExcemptionCard,EnergyDrink,MagicBook,ExcemptionCard]
+ACTIVITY 6 : GET MAGIC BOOK
+Bag[count=5;ExcemptionCard,ExcemptionCard,EnergyDrink,EnergyDrink,ExcemptionCard]
+ACTIVITY 7 : INSERT MAGIC BOOK
+Bag[count=6;MagicBook,ExcemptionCard,ExcemptionCard,EnergyDrink,EnergyDrink,ExcemptionCard]
+ACTIVITY 8 : GET MAGIC BOOK
+Bag[count=5;ExcemptionCard,ExcemptionCard,EnergyDrink,EnergyDrink,ExcemptionCard]
+ACTIVITY 9 : GET ENERGY DRINK
+Bag[count=4;ExcemptionCard,ExcemptionCard,EnergyDrink,ExcemptionCard]
+ACTIVITY 10 : GET EXCEMPTION CARD
+Bag[count=3;ExcemptionCard,EnergyDrink,ExcemptionCard]
+ACTIVITY 11 : INSERT EXCEMPTION CARD
+Bag[count=4;ExcemptionCard,ExcemptionCard,EnergyDrink,ExcemptionCard]
+ACTIVITY 12 : GET ENERGY DRINK
+Bag[count=3;ExcemptionCard,ExcemptionCard,ExcemptionCard]
+ACTIVITY 13 : GET
+Bag[count=3;ExcemptionCard,ExcemptionCard,ExcemptionCard]
+ACTIVITY 14 : GET EXCEMPTION CARD
+Bag[count=2;ExcemptionCard,ExcemptionCard]
+ACTIVITY 15 : INSERT FIRST AID
+Bag[count=3;FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 16 : INSERT MAGIC BOOK
+Bag[count=4;MagicBook,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 17 : GET
+Bag[count=4;MagicBook,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 18 : GET
+Bag[count=4;MagicBook,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 19 : GET FIRST AID
+Bag[count=3;MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 20 : GET
+Bag[count=3;MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 21 : INSERT MAGIC BOOK
+Bag[count=4;MagicBook,MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 22 : GET ENERGY DRINK
+Bag[count=4;MagicBook,MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 23 : GET
+Bag[count=4;MagicBook,MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 24 : INSERT MAGIC BOOK
+Bag[count=5;MagicBook,MagicBook,MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 25 : GET
+Bag[count=5;MagicBook,MagicBook,MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 26 : GET EXCEMPTION CARD
+Bag[count=4;MagicBook,MagicBook,MagicBook,ExcemptionCard]
+ACTIVITY 27 : INSERT PASSING CARD
+Bag[count=5;PassingCard,MagicBook,MagicBook,MagicBook,ExcemptionCard]
+ACTIVITY 28 : INSERT EXCEMPTION CARD
+Bag[count=6;ExcemptionCard,PassingCard,MagicBook,MagicBook,MagicBook,ExcemptionCard]
+ACTIVITY 29 : GET
+Bag[count=6;ExcemptionCard,PassingCard,MagicBook,MagicBook,MagicBook,ExcemptionCard]
+ACTIVITY 30 : GET EXCEMPTION CARD
+Bag[count=5;PassingCard,MagicBook,MagicBook,MagicBook,ExcemptionCard]
+ACTIVITY 31 : GET EXCEMPTION CARD
+Bag[count=4;MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 32 : GET
+Bag[count=4;MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 33 : INSERT ENERGY DRINK
+Bag[count=5;EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 34 : GET
+Bag[count=5;EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 35 : GET FIRST AID
+Bag[count=5;EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 36 : GET
+Bag[count=5;EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 37 : INSERT MAGIC BOOK
+Bag[count=6;MagicBook,EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 38 : GET
+Bag[count=6;MagicBook,EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 39 : INSERT MAGIC BOOK
+Bag[count=7;MagicBook,MagicBook,EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 40 : GET
+Bag[count=7;MagicBook,MagicBook,EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]
+ACTIVITY 41 : GET
+Bag[count=7;MagicBook,MagicBook,EnergyDrink,MagicBook,MagicBook,MagicBook,PassingCard]

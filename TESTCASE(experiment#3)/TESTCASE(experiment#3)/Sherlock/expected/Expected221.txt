@@ -1,0 +1,401 @@
+Sherlock[index=0;pos=(2,1);moving_rule=RRDLRRLLU]
+STEPT 1:
+Sherlock[index=0;pos=(2,2);moving_rule=RRDLRRLLU]
+STEPT 2:
+Sherlock[index=0;pos=(2,3);moving_rule=RRDLRRLLU]
+STEPT 3:
+Sherlock[index=0;pos=(3,3);moving_rule=RRDLRRLLU]
+STEPT 4:
+Sherlock[index=0;pos=(3,2);moving_rule=RRDLRRLLU]
+STEPT 5:
+Sherlock[index=0;pos=(3,3);moving_rule=RRDLRRLLU]
+STEPT 6:
+Sherlock[index=0;pos=(3,4);moving_rule=RRDLRRLLU]
+STEPT 7:
+Sherlock[index=0;pos=(3,3);moving_rule=RRDLRRLLU]
+STEPT 8:
+Sherlock[index=0;pos=(3,2);moving_rule=RRDLRRLLU]
+STEPT 9:
+Sherlock[index=0;pos=(2,2);moving_rule=RRDLRRLLU]
+STEPT 10:
+Sherlock[index=0;pos=(2,3);moving_rule=RRDLRRLLU]
+STEPT 11:
+Sherlock[index=0;pos=(2,4);moving_rule=RRDLRRLLU]
+STEPT 12:
+Sherlock[index=0;pos=(3,4);moving_rule=RRDLRRLLU]
+STEPT 13:
+Sherlock[index=0;pos=(3,3);moving_rule=RRDLRRLLU]
+STEPT 14:
+Sherlock[index=0;pos=(3,4);moving_rule=RRDLRRLLU]
+STEPT 15:
+Sherlock[index=0;pos=(3,5);moving_rule=RRDLRRLLU]
+STEPT 16:
+Sherlock[index=0;pos=(3,4);moving_rule=RRDLRRLLU]
+STEPT 17:
+Sherlock[index=0;pos=(3,3);moving_rule=RRDLRRLLU]
+STEPT 18:
+Sherlock[index=0;pos=(2,3);moving_rule=RRDLRRLLU]
+STEPT 19:
+Sherlock[index=0;pos=(2,4);moving_rule=RRDLRRLLU]
+STEPT 20:
+Sherlock[index=0;pos=(2,5);moving_rule=RRDLRRLLU]
+STEPT 21:
+Sherlock[index=0;pos=(3,5);moving_rule=RRDLRRLLU]
+STEPT 22:
+Sherlock[index=0;pos=(3,4);moving_rule=RRDLRRLLU]
+STEPT 23:
+Sherlock[index=0;pos=(3,5);moving_rule=RRDLRRLLU]
+STEPT 24:
+Sherlock[index=0;pos=(3,6);moving_rule=RRDLRRLLU]
+STEPT 25:
+Sherlock[index=0;pos=(3,5);moving_rule=RRDLRRLLU]
+STEPT 26:
+Sherlock[index=0;pos=(3,4);moving_rule=RRDLRRLLU]
+STEPT 27:
+Sherlock[index=0;pos=(2,4);moving_rule=RRDLRRLLU]
+STEPT 28:
+Sherlock[index=0;pos=(2,5);moving_rule=RRDLRRLLU]
+STEPT 29:
+Sherlock[index=0;pos=(2,6);moving_rule=RRDLRRLLU]
+STEPT 30:
+Sherlock[index=0;pos=(3,6);moving_rule=RRDLRRLLU]
+STEPT 31:
+Sherlock[index=0;pos=(3,5);moving_rule=RRDLRRLLU]
+STEPT 32:
+Sherlock[index=0;pos=(3,6);moving_rule=RRDLRRLLU]
+STEPT 33:
+Sherlock[index=0;pos=(3,7);moving_rule=RRDLRRLLU]
+STEPT 34:
+Sherlock[index=0;pos=(3,6);moving_rule=RRDLRRLLU]
+STEPT 35:
+Sherlock[index=0;pos=(3,5);moving_rule=RRDLRRLLU]
+STEPT 36:
+Sherlock[index=0;pos=(2,5);moving_rule=RRDLRRLLU]
+STEPT 37:
+Sherlock[index=0;pos=(2,6);moving_rule=RRDLRRLLU]
+STEPT 38:
+Sherlock[index=0;pos=(2,7);moving_rule=RRDLRRLLU]
+STEPT 39:
+Sherlock[index=0;pos=(3,7);moving_rule=RRDLRRLLU]
+STEPT 40:
+Sherlock[index=0;pos=(3,6);moving_rule=RRDLRRLLU]
+STEPT 41:
+Sherlock[index=0;pos=(3,7);moving_rule=RRDLRRLLU]
+STEPT 42:
+Sherlock[index=0;pos=(3,8);moving_rule=RRDLRRLLU]
+STEPT 43:
+Sherlock[index=0;pos=(3,7);moving_rule=RRDLRRLLU]
+STEPT 44:
+Sherlock[index=0;pos=(3,6);moving_rule=RRDLRRLLU]
+STEPT 45:
+Sherlock[index=0;pos=(2,6);moving_rule=RRDLRRLLU]
+STEPT 46:
+Sherlock[index=0;pos=(2,7);moving_rule=RRDLRRLLU]
+STEPT 47:
+Sherlock[index=0;pos=(2,8);moving_rule=RRDLRRLLU]
+STEPT 48:
+Sherlock[index=0;pos=(3,8);moving_rule=RRDLRRLLU]
+STEPT 49:
+Sherlock[index=0;pos=(3,7);moving_rule=RRDLRRLLU]
+STEPT 50:
+Sherlock[index=0;pos=(3,8);moving_rule=RRDLRRLLU]
+STEPT 51:
+Sherlock[index=0;pos=(3,9);moving_rule=RRDLRRLLU]
+STEPT 52:
+Sherlock[index=0;pos=(3,8);moving_rule=RRDLRRLLU]
+STEPT 53:
+Sherlock[index=0;pos=(3,7);moving_rule=RRDLRRLLU]
+STEPT 54:
+Sherlock[index=0;pos=(2,7);moving_rule=RRDLRRLLU]
+STEPT 55:
+Sherlock[index=0;pos=(2,8);moving_rule=RRDLRRLLU]
+STEPT 56:
+Sherlock[index=0;pos=(2,9);moving_rule=RRDLRRLLU]
+STEPT 57:
+Sherlock[index=0;pos=(3,9);moving_rule=RRDLRRLLU]
+STEPT 58:
+Sherlock[index=0;pos=(3,8);moving_rule=RRDLRRLLU]
+STEPT 59:
+Sherlock[index=0;pos=(3,9);moving_rule=RRDLRRLLU]
+STEPT 60:
+Sherlock[index=0;pos=(3,10);moving_rule=RRDLRRLLU]
+STEPT 61:
+Sherlock[index=0;pos=(3,9);moving_rule=RRDLRRLLU]
+STEPT 62:
+Sherlock[index=0;pos=(3,8);moving_rule=RRDLRRLLU]
+STEPT 63:
+Sherlock[index=0;pos=(2,8);moving_rule=RRDLRRLLU]
+STEPT 64:
+Sherlock[index=0;pos=(2,9);moving_rule=RRDLRRLLU]
+STEPT 65:
+Sherlock[index=0;pos=(2,10);moving_rule=RRDLRRLLU]
+STEPT 66:
+Sherlock[index=0;pos=(3,10);moving_rule=RRDLRRLLU]
+STEPT 67:
+Sherlock[index=0;pos=(3,9);moving_rule=RRDLRRLLU]
+STEPT 68:
+Sherlock[index=0;pos=(3,10);moving_rule=RRDLRRLLU]
+STEPT 69:
+Sherlock[index=0;pos=(3,11);moving_rule=RRDLRRLLU]
+STEPT 70:
+Sherlock[index=0;pos=(3,10);moving_rule=RRDLRRLLU]
+STEPT 71:
+Sherlock[index=0;pos=(3,9);moving_rule=RRDLRRLLU]
+STEPT 72:
+Sherlock[index=0;pos=(2,9);moving_rule=RRDLRRLLU]
+STEPT 73:
+Sherlock[index=0;pos=(2,10);moving_rule=RRDLRRLLU]
+STEPT 74:
+Sherlock[index=0;pos=(2,11);moving_rule=RRDLRRLLU]
+STEPT 75:
+Sherlock[index=0;pos=(3,11);moving_rule=RRDLRRLLU]
+STEPT 76:
+Sherlock[index=0;pos=(3,10);moving_rule=RRDLRRLLU]
+STEPT 77:
+Sherlock[index=0;pos=(3,11);moving_rule=RRDLRRLLU]
+STEPT 78:
+Sherlock[index=0;pos=(3,12);moving_rule=RRDLRRLLU]
+STEPT 79:
+Sherlock[index=0;pos=(3,11);moving_rule=RRDLRRLLU]
+STEPT 80:
+Sherlock[index=0;pos=(3,10);moving_rule=RRDLRRLLU]
+STEPT 81:
+Sherlock[index=0;pos=(2,10);moving_rule=RRDLRRLLU]
+STEPT 82:
+Sherlock[index=0;pos=(2,11);moving_rule=RRDLRRLLU]
+STEPT 83:
+Sherlock[index=0;pos=(2,12);moving_rule=RRDLRRLLU]
+STEPT 84:
+Sherlock[index=0;pos=(3,12);moving_rule=RRDLRRLLU]
+STEPT 85:
+Sherlock[index=0;pos=(3,11);moving_rule=RRDLRRLLU]
+STEPT 86:
+Sherlock[index=0;pos=(3,12);moving_rule=RRDLRRLLU]
+STEPT 87:
+Sherlock[index=0;pos=(3,13);moving_rule=RRDLRRLLU]
+STEPT 88:
+Sherlock[index=0;pos=(3,12);moving_rule=RRDLRRLLU]
+STEPT 89:
+Sherlock[index=0;pos=(3,11);moving_rule=RRDLRRLLU]
+STEPT 90:
+Sherlock[index=0;pos=(2,11);moving_rule=RRDLRRLLU]
+STEPT 91:
+Sherlock[index=0;pos=(2,12);moving_rule=RRDLRRLLU]
+STEPT 92:
+Sherlock[index=0;pos=(2,13);moving_rule=RRDLRRLLU]
+STEPT 93:
+Sherlock[index=0;pos=(3,13);moving_rule=RRDLRRLLU]
+STEPT 94:
+Sherlock[index=0;pos=(3,12);moving_rule=RRDLRRLLU]
+STEPT 95:
+Sherlock[index=0;pos=(3,13);moving_rule=RRDLRRLLU]
+STEPT 96:
+Sherlock[index=0;pos=(3,14);moving_rule=RRDLRRLLU]
+STEPT 97:
+Sherlock[index=0;pos=(3,13);moving_rule=RRDLRRLLU]
+STEPT 98:
+Sherlock[index=0;pos=(3,12);moving_rule=RRDLRRLLU]
+STEPT 99:
+Sherlock[index=0;pos=(2,12);moving_rule=RRDLRRLLU]
+STEPT 100:
+Sherlock[index=0;pos=(2,13);moving_rule=RRDLRRLLU]
+STEPT 101:
+Sherlock[index=0;pos=(2,14);moving_rule=RRDLRRLLU]
+STEPT 102:
+Sherlock[index=0;pos=(3,14);moving_rule=RRDLRRLLU]
+STEPT 103:
+Sherlock[index=0;pos=(3,13);moving_rule=RRDLRRLLU]
+STEPT 104:
+Sherlock[index=0;pos=(3,14);moving_rule=RRDLRRLLU]
+STEPT 105:
+Sherlock[index=0;pos=(3,15);moving_rule=RRDLRRLLU]
+STEPT 106:
+Sherlock[index=0;pos=(3,14);moving_rule=RRDLRRLLU]
+STEPT 107:
+Sherlock[index=0;pos=(3,13);moving_rule=RRDLRRLLU]
+STEPT 108:
+Sherlock[index=0;pos=(2,13);moving_rule=RRDLRRLLU]
+STEPT 109:
+Sherlock[index=0;pos=(2,14);moving_rule=RRDLRRLLU]
+STEPT 110:
+Sherlock[index=0;pos=(2,15);moving_rule=RRDLRRLLU]
+STEPT 111:
+Sherlock[index=0;pos=(3,15);moving_rule=RRDLRRLLU]
+STEPT 112:
+Sherlock[index=0;pos=(3,14);moving_rule=RRDLRRLLU]
+STEPT 113:
+Sherlock[index=0;pos=(3,15);moving_rule=RRDLRRLLU]
+STEPT 114:
+Sherlock[index=0;pos=(3,16);moving_rule=RRDLRRLLU]
+STEPT 115:
+Sherlock[index=0;pos=(3,15);moving_rule=RRDLRRLLU]
+STEPT 116:
+Sherlock[index=0;pos=(3,14);moving_rule=RRDLRRLLU]
+STEPT 117:
+Sherlock[index=0;pos=(2,14);moving_rule=RRDLRRLLU]
+STEPT 118:
+Sherlock[index=0;pos=(2,15);moving_rule=RRDLRRLLU]
+STEPT 119:
+Sherlock[index=0;pos=(2,16);moving_rule=RRDLRRLLU]
+STEPT 120:
+Sherlock[index=0;pos=(3,16);moving_rule=RRDLRRLLU]
+STEPT 121:
+Sherlock[index=0;pos=(3,15);moving_rule=RRDLRRLLU]
+STEPT 122:
+Sherlock[index=0;pos=(3,16);moving_rule=RRDLRRLLU]
+STEPT 123:
+Sherlock[index=0;pos=(3,17);moving_rule=RRDLRRLLU]
+STEPT 124:
+Sherlock[index=0;pos=(3,16);moving_rule=RRDLRRLLU]
+STEPT 125:
+Sherlock[index=0;pos=(3,15);moving_rule=RRDLRRLLU]
+STEPT 126:
+Sherlock[index=0;pos=(2,15);moving_rule=RRDLRRLLU]
+STEPT 127:
+Sherlock[index=0;pos=(2,16);moving_rule=RRDLRRLLU]
+STEPT 128:
+Sherlock[index=0;pos=(2,17);moving_rule=RRDLRRLLU]
+STEPT 129:
+Sherlock[index=0;pos=(3,17);moving_rule=RRDLRRLLU]
+STEPT 130:
+Sherlock[index=0;pos=(3,16);moving_rule=RRDLRRLLU]
+STEPT 131:
+Sherlock[index=0;pos=(3,17);moving_rule=RRDLRRLLU]
+STEPT 132:
+Sherlock[index=0;pos=(3,18);moving_rule=RRDLRRLLU]
+STEPT 133:
+Sherlock[index=0;pos=(3,17);moving_rule=RRDLRRLLU]
+STEPT 134:
+Sherlock[index=0;pos=(3,16);moving_rule=RRDLRRLLU]
+STEPT 135:
+Sherlock[index=0;pos=(2,16);moving_rule=RRDLRRLLU]
+STEPT 136:
+Sherlock[index=0;pos=(2,17);moving_rule=RRDLRRLLU]
+STEPT 137:
+Sherlock[index=0;pos=(2,18);moving_rule=RRDLRRLLU]
+STEPT 138:
+Sherlock[index=0;pos=(3,18);moving_rule=RRDLRRLLU]
+STEPT 139:
+Sherlock[index=0;pos=(3,17);moving_rule=RRDLRRLLU]
+STEPT 140:
+Sherlock[index=0;pos=(3,18);moving_rule=RRDLRRLLU]
+STEPT 141:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 142:
+Sherlock[index=0;pos=(3,18);moving_rule=RRDLRRLLU]
+STEPT 143:
+Sherlock[index=0;pos=(3,17);moving_rule=RRDLRRLLU]
+STEPT 144:
+Sherlock[index=0;pos=(2,17);moving_rule=RRDLRRLLU]
+STEPT 145:
+Sherlock[index=0;pos=(2,18);moving_rule=RRDLRRLLU]
+STEPT 146:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 147:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 148:
+Sherlock[index=0;pos=(3,18);moving_rule=RRDLRRLLU]
+STEPT 149:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 150:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 151:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 152:
+Sherlock[index=0;pos=(3,18);moving_rule=RRDLRRLLU]
+STEPT 153:
+Sherlock[index=0;pos=(2,18);moving_rule=RRDLRRLLU]
+STEPT 154:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 155:
+Sherlock[index=0;pos=(2,20);moving_rule=RRDLRRLLU]
+STEPT 156:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 157:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 158:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 159:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 160:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 161:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 162:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 163:
+Sherlock[index=0;pos=(2,20);moving_rule=RRDLRRLLU]
+STEPT 164:
+Sherlock[index=0;pos=(2,21);moving_rule=RRDLRRLLU]
+STEPT 165:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 166:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 167:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 168:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 169:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 170:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 171:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 172:
+Sherlock[index=0;pos=(2,20);moving_rule=RRDLRRLLU]
+STEPT 173:
+Sherlock[index=0;pos=(2,21);moving_rule=RRDLRRLLU]
+STEPT 174:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 175:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 176:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 177:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 178:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 179:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 180:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 181:
+Sherlock[index=0;pos=(2,20);moving_rule=RRDLRRLLU]
+STEPT 182:
+Sherlock[index=0;pos=(2,21);moving_rule=RRDLRRLLU]
+STEPT 183:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 184:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 185:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 186:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 187:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 188:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 189:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 190:
+Sherlock[index=0;pos=(2,20);moving_rule=RRDLRRLLU]
+STEPT 191:
+Sherlock[index=0;pos=(2,21);moving_rule=RRDLRRLLU]
+STEPT 192:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 193:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 194:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 195:
+Sherlock[index=0;pos=(3,21);moving_rule=RRDLRRLLU]
+STEPT 196:
+Sherlock[index=0;pos=(3,20);moving_rule=RRDLRRLLU]
+STEPT 197:
+Sherlock[index=0;pos=(3,19);moving_rule=RRDLRRLLU]
+STEPT 198:
+Sherlock[index=0;pos=(2,19);moving_rule=RRDLRRLLU]
+STEPT 199:
+Sherlock[index=0;pos=(2,20);moving_rule=RRDLRRLLU]
+STEPT 200:
+Sherlock[index=0;pos=(2,21);moving_rule=RRDLRRLLU]

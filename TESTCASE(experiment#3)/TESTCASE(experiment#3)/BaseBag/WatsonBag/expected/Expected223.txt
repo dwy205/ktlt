@@ -1,0 +1,62 @@
+Watson[index=0;pos=(10,0);moving_rule=DLLRRDLRUUDRD] HP:330 EXP:11
+Bag[count=0]
+ACTIVITY 0 : INSERT PASSING CARD
+Bag[count=1;PassingCard]
+ACTIVITY 1 : INSERT FIRST AID
+Bag[count=2;FirstAid,PassingCard]
+ACTIVITY 2 : INSERT ENERGY DRINK
+Bag[count=3;EnergyDrink,FirstAid,PassingCard]
+ACTIVITY 3 : INSERT FIRST AID
+Bag[count=4;FirstAid,EnergyDrink,FirstAid,PassingCard]
+ACTIVITY 4 : INSERT PASSING CARD
+Bag[count=5;PassingCard,FirstAid,EnergyDrink,FirstAid,PassingCard]
+ACTIVITY 5 : GET
+Bag[count=4;FirstAid,EnergyDrink,FirstAid,PassingCard]
+ACTIVITY 6 : INSERT ENERGY DRINK
+Bag[count=5;EnergyDrink,FirstAid,EnergyDrink,FirstAid,PassingCard]
+ACTIVITY 7 : GET
+Bag[count=4;EnergyDrink,EnergyDrink,FirstAid,PassingCard]
+ACTIVITY 8 : GET FIRST AID
+Bag[count=3;EnergyDrink,EnergyDrink,PassingCard]
+ACTIVITY 9 : GET FIRST AID
+Bag[count=3;EnergyDrink,EnergyDrink,PassingCard]
+ACTIVITY 10 : GET PASSING CARD
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 11 : INSERT FIRST AID
+Bag[count=3;FirstAid,EnergyDrink,EnergyDrink]
+ACTIVITY 12 : GET FIRST AID
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 13 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 14 : GET EXCEMPTION CARD
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 15 : GET EXCEMPTION CARD
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 16 : GET MAGIC BOOK
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 17 : INSERT FIRST AID
+Bag[count=3;FirstAid,EnergyDrink,EnergyDrink]
+ACTIVITY 18 : GET ENERGY DRINK
+Bag[count=2;FirstAid,EnergyDrink]
+ACTIVITY 19 : GET EXCEMPTION CARD
+Bag[count=2;FirstAid,EnergyDrink]
+ACTIVITY 20 : GET
+Bag[count=1;EnergyDrink]
+ACTIVITY 21 : GET FIRST AID
+Bag[count=1;EnergyDrink]
+ACTIVITY 22 : GET ENERGY DRINK
+Bag[count=0]
+ACTIVITY 23 : GET EXCEMPTION CARD
+Bag[count=0]
+ACTIVITY 24 : INSERT FIRST AID
+Bag[count=1;FirstAid]
+ACTIVITY 25 : GET FIRST AID
+Bag[count=0]
+ACTIVITY 26 : GET
+Bag[count=0]
+ACTIVITY 27 : INSERT ENERGY DRINK
+Bag[count=1;EnergyDrink]
+ACTIVITY 28 : GET PASSING CARD
+Bag[count=1;EnergyDrink]
+ACTIVITY 29 : INSERT FIRST AID
+Bag[count=2;FirstAid,EnergyDrink]

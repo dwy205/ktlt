@@ -1,0 +1,58 @@
+Sherlock[index=0;pos=(0,0);moving_rule=LLUDLLLDLRUDR] HP:96 EXP:524
+Bag[count=0]
+ACTIVITY 0 : INSERT EXCEMPTION CARD
+Bag[count=1;ExcemptionCard]
+ACTIVITY 1 : INSERT EXCEMPTION CARD
+Bag[count=2;ExcemptionCard,ExcemptionCard]
+ACTIVITY 2 : INSERT FIRST AID
+Bag[count=3;FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 3 : INSERT PASSING CARD
+Bag[count=4;PassingCard,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 4 : INSERT PASSING CARD
+Bag[count=5;PassingCard,PassingCard,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 5 : INSERT FIRST AID
+Bag[count=6;FirstAid,PassingCard,PassingCard,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 6 : GET PASSING CARD
+Bag[count=5;FirstAid,PassingCard,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 7 : GET MAGIC BOOK
+Bag[count=5;FirstAid,PassingCard,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 8 : GET ENERGY DRINK
+Bag[count=5;FirstAid,PassingCard,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 9 : GET PASSING CARD
+Bag[count=4;FirstAid,FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 10 : GET EXCEMPTION CARD
+Bag[count=3;FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 11 : GET PASSING CARD
+Bag[count=3;FirstAid,FirstAid,ExcemptionCard]
+ACTIVITY 12 : GET
+Bag[count=2;FirstAid,ExcemptionCard]
+ACTIVITY 13 : GET
+Bag[count=1;ExcemptionCard]
+ACTIVITY 14 : GET PASSING CARD
+Bag[count=1;ExcemptionCard]
+ACTIVITY 15 : INSERT EXCEMPTION CARD
+Bag[count=2;ExcemptionCard,ExcemptionCard]
+ACTIVITY 16 : GET FIRST AID
+Bag[count=2;ExcemptionCard,ExcemptionCard]
+ACTIVITY 17 : INSERT MAGIC BOOK
+Bag[count=3;MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 18 : GET ENERGY DRINK
+Bag[count=3;MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 19 : INSERT FIRST AID
+Bag[count=4;FirstAid,MagicBook,ExcemptionCard,ExcemptionCard]
+ACTIVITY 20 : GET MAGIC BOOK
+Bag[count=3;FirstAid,ExcemptionCard,ExcemptionCard]
+ACTIVITY 21 : GET
+Bag[count=2;ExcemptionCard,ExcemptionCard]
+ACTIVITY 22 : GET
+Bag[count=2;ExcemptionCard,ExcemptionCard]
+ACTIVITY 23 : INSERT PASSING CARD
+Bag[count=3;PassingCard,ExcemptionCard,ExcemptionCard]
+ACTIVITY 24 : GET EXCEMPTION CARD
+Bag[count=2;PassingCard,ExcemptionCard]
+ACTIVITY 25 : GET
+Bag[count=2;PassingCard,ExcemptionCard]
+ACTIVITY 26 : GET EXCEMPTION CARD
+Bag[count=1;PassingCard]
+ACTIVITY 27 : INSERT MAGIC BOOK
+Bag[count=2;MagicBook,PassingCard]

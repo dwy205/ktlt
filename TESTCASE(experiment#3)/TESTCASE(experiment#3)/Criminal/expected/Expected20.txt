@@ -1,0 +1,804 @@
+Criminal[index=0;pos=(1,29)]
+Sherlock[index=1;pos=(3,0);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(0,3);moving_rule=LLRDRDRRUDRD]
+CRIMINAL -> SHERLOCK -> WATSON
+STEPT 1:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,0);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(0,2);moving_rule=LLRDRDRRUDRD]
+STEPT 2:
+Criminal[index=0;pos=(1,29)]
+Sherlock[index=1;pos=(1,0);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(0,1);moving_rule=LLRDRDRRUDRD]
+STEPT 3:
+Criminal[index=0;pos=(2,29)]
+Sherlock[index=1;pos=(1,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(0,2);moving_rule=LLRDRDRRUDRD]
+STEPT 4:
+Criminal[index=0;pos=(3,29)]
+Sherlock[index=1;pos=(1,0);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(1,2);moving_rule=LLRDRDRRUDRD]
+STEPT 5:
+Criminal[index=0;pos=(2,29)]
+Sherlock[index=1;pos=(2,0);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(1,3);moving_rule=LLRDRDRRUDRD]
+STEPT 6:
+Criminal[index=0;pos=(3,29)]
+Sherlock[index=1;pos=(3,0);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,3);moving_rule=LLRDRDRRUDRD]
+STEPT 7:
+Criminal[index=0;pos=(2,29)]
+Sherlock[index=1;pos=(3,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,4);moving_rule=LLRDRDRRUDRD]
+STEPT 8:
+Criminal[index=0;pos=(1,29)]
+Sherlock[index=1;pos=(3,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,5);moving_rule=LLRDRDRRUDRD]
+STEPT 9:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(1,5);moving_rule=LLRDRDRRUDRD]
+STEPT 10:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,5);moving_rule=LLRDRDRRUDRD]
+STEPT 11:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,6);moving_rule=LLRDRDRRUDRD]
+STEPT 12:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,6);moving_rule=LLRDRDRRUDRD]
+STEPT 13:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,6);moving_rule=LLRDRDRRUDRD]
+STEPT 14:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,6);moving_rule=LLRDRDRRUDRD]
+STEPT 15:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,1);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,7);moving_rule=LLRDRDRRUDRD]
+STEPT 16:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,7);moving_rule=LLRDRDRRUDRD]
+STEPT 17:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,8);moving_rule=LLRDRDRRUDRD]
+STEPT 18:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,8);moving_rule=LLRDRDRRUDRD]
+STEPT 19:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,9);moving_rule=LLRDRDRRUDRD]
+STEPT 20:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,10);moving_rule=LLRDRDRRUDRD]
+STEPT 21:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,10);moving_rule=LLRDRDRRUDRD]
+STEPT 22:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,10);moving_rule=LLRDRDRRUDRD]
+STEPT 23:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,11);moving_rule=LLRDRDRRUDRD]
+STEPT 24:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,2);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,11);moving_rule=LLRDRDRRUDRD]
+STEPT 25:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,10);moving_rule=LLRDRDRRUDRD]
+STEPT 26:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,9);moving_rule=LLRDRDRRUDRD]
+STEPT 27:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,10);moving_rule=LLRDRDRRUDRD]
+STEPT 28:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,10);moving_rule=LLRDRDRRUDRD]
+STEPT 29:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,11);moving_rule=LLRDRDRRUDRD]
+STEPT 30:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,11);moving_rule=LLRDRDRRUDRD]
+STEPT 31:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,12);moving_rule=LLRDRDRRUDRD]
+STEPT 32:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,13);moving_rule=LLRDRDRRUDRD]
+STEPT 33:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,3);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,13);moving_rule=LLRDRDRRUDRD]
+STEPT 34:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,13);moving_rule=LLRDRDRRUDRD]
+STEPT 35:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 36:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 37:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,13);moving_rule=LLRDRDRRUDRD]
+STEPT 38:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,12);moving_rule=LLRDRDRRUDRD]
+STEPT 39:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,13);moving_rule=LLRDRDRRUDRD]
+STEPT 40:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,13);moving_rule=LLRDRDRRUDRD]
+STEPT 41:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 42:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,4);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 43:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 44:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 45:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 46:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 47:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 48:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 49:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 50:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 51:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,5);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 52:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 53:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 54:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 55:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 56:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 57:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 58:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 59:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 60:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,6);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 61:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 62:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 63:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 64:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 65:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 66:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 67:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 68:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 69:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,7);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 70:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 71:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 72:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 73:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 74:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 75:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 76:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 77:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 78:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,8);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 79:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 80:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 81:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 82:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 83:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 84:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 85:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 86:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 87:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,9);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 88:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 89:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 90:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 91:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 92:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 93:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 94:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 95:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 96:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,10);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 97:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 98:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 99:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 100:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 101:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 102:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 103:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 104:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 105:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,11);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 106:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 107:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 108:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 109:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 110:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 111:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 112:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 113:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 114:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,12);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 115:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 116:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 117:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 118:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 119:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 120:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 121:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 122:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 123:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,13);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 124:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 125:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 126:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 127:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 128:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 129:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 130:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 131:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 132:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,14);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 133:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 134:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 135:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 136:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 137:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 138:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 139:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 140:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 141:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,15);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 142:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 143:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 144:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 145:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 146:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 147:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,17);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 148:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 149:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 150:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 151:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 152:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 153:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 154:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 155:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 156:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,17);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 157:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 158:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 159:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 160:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 161:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 162:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 163:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 164:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 165:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,17);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 166:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 167:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 168:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 169:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 170:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 171:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 172:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 173:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 174:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,17);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 175:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 176:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 177:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 178:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 179:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 180:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 181:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 182:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 183:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,17);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 184:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 185:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 186:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 187:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 188:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 189:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(2,16);moving_rule=LLRDRDRRUDRD]
+STEPT 190:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 191:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 192:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,17);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 193:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 194:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,14);moving_rule=LLRDRDRRUDRD]
+STEPT 195:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 196:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,15);moving_rule=LLRDRDRRUDRD]
+STEPT 197:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 198:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(3,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 199:
+Criminal[index=0;pos=(0,29)]
+Sherlock[index=1;pos=(2,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]
+STEPT 200:
+Criminal[index=0;pos=(0,28)]
+Sherlock[index=1;pos=(1,16);moving_rule=UURLDDRDD]
+Watson[index=2;pos=(3,16);moving_rule=LLRDRDRRUDRD]

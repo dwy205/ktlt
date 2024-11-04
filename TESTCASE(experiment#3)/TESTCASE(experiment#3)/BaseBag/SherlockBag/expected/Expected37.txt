@@ -1,0 +1,64 @@
+Sherlock[index=0;pos=(6,32);moving_rule=LLLU] HP:493 EXP:74
+Bag[count=0]
+ACTIVITY 0 : INSERT MAGIC BOOK
+Bag[count=1;MagicBook]
+ACTIVITY 1 : INSERT ENERGY DRINK
+Bag[count=2;EnergyDrink,MagicBook]
+ACTIVITY 2 : INSERT ENERGY DRINK
+Bag[count=3;EnergyDrink,EnergyDrink,MagicBook]
+ACTIVITY 3 : INSERT FIRST AID
+Bag[count=4;FirstAid,EnergyDrink,EnergyDrink,MagicBook]
+ACTIVITY 4 : INSERT MAGIC BOOK
+Bag[count=5;MagicBook,FirstAid,EnergyDrink,EnergyDrink,MagicBook]
+ACTIVITY 5 : GET
+Bag[count=4;FirstAid,EnergyDrink,EnergyDrink,MagicBook]
+ACTIVITY 6 : GET
+Bag[count=3;EnergyDrink,EnergyDrink,MagicBook]
+ACTIVITY 7 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 8 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 9 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 10 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 11 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 12 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 13 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 14 : GET FIRST AID
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 15 : GET FIRST AID
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 16 : INSERT MAGIC BOOK
+Bag[count=3;MagicBook,EnergyDrink,EnergyDrink]
+ACTIVITY 17 : INSERT FIRST AID
+Bag[count=4;FirstAid,MagicBook,EnergyDrink,EnergyDrink]
+ACTIVITY 18 : GET MAGIC BOOK
+Bag[count=3;FirstAid,EnergyDrink,EnergyDrink]
+ACTIVITY 19 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 20 : INSERT FIRST AID
+Bag[count=3;FirstAid,EnergyDrink,EnergyDrink]
+ACTIVITY 21 : GET
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 22 : GET EXCEMPTION CARD
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 23 : GET FIRST AID
+Bag[count=2;EnergyDrink,EnergyDrink]
+ACTIVITY 24 : INSERT ENERGY DRINK
+Bag[count=3;EnergyDrink,EnergyDrink,EnergyDrink]
+ACTIVITY 25 : GET FIRST AID
+Bag[count=3;EnergyDrink,EnergyDrink,EnergyDrink]
+ACTIVITY 26 : GET
+Bag[count=3;EnergyDrink,EnergyDrink,EnergyDrink]
+ACTIVITY 27 : INSERT MAGIC BOOK
+Bag[count=4;MagicBook,EnergyDrink,EnergyDrink,EnergyDrink]
+ACTIVITY 28 : GET FIRST AID
+Bag[count=4;MagicBook,EnergyDrink,EnergyDrink,EnergyDrink]
+ACTIVITY 29 : GET
+Bag[count=3;EnergyDrink,EnergyDrink,EnergyDrink]
+ACTIVITY 30 : INSERT ENERGY DRINK
+Bag[count=4;EnergyDrink,EnergyDrink,EnergyDrink,EnergyDrink]
